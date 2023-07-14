@@ -1,4 +1,4 @@
-package ro.samuel.restsample.model;
+package ro.samuel.pronto.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
